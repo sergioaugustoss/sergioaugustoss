@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Sérgio Augusto Santana de Souza
+
+![Isto é uma imagem](/home/sergio/Downloads/foto_profissional.jpeg]
+
+
+
 
 You can use the [editor on GitHub](https://github.com/sergioaugustoss/sergioaugustoss/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
