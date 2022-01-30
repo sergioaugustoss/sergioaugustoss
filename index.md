@@ -1,6 +1,6 @@
 ## Sérgio Augusto Santana de Souza
 
-![Isto é uma imagem](https://i.pinimg.com/originals/1c/10/d1/1c10d122a7ef706c5c497f2fd37a2a6b.jpg]
+![Isto é uma imagem](/home/sergio/Downloads/foto_profissional.jpeg)
 
 
 
