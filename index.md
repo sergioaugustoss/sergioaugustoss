@@ -1,6 +1,6 @@
 ## Sérgio Augusto Santana de Souza
 
-![Sérgio](assests/home/sergio/Downloads/sergioaugustoss/foto_profissional.jpeg)
+![Sérgio](assets/home/sergio/Downloads/sergioaugustoss/foto_profissional.jpeg)
 
 [LinkedIn](www.linkedin.com/in/souzaaugusto)
 
