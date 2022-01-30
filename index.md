@@ -1,10 +1,11 @@
 ## Sérgio Augusto Santana de Souza
 
-[Sérgio](https://i.pinimg.com/originals/1c/10/d1/1c10d122a7ef706c5c497f2fd37a2a6b.jpg)
+![Sérgio](https://i.pinimg.com/originals/1c/10/d1/1c10d122a7ef706c5c497f2fd37a2a6b.jpg)
 
 [LinkedIn](www.linkedin.com/in/souzaaugusto)
 
-Doutorando em Biologia Geral e Aplicada na UNESP 
+Doutorando em Biologia Geral e Aplicada na UNESP
+
 Estudante de Desenvolvimento Web na Trybe
 
 **Sobre**
