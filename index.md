@@ -1,6 +1,7 @@
 ## Sérgio Augusto Santana de Souza
 
-![Sérgio](https://media-exp1.licdn.com/dms/image/C4D03AQGggHMeZtYtdA/profile-displayphoto-shrink_800_800/0/1632144069257?e=1649289600&v=beta&t=Jw-vuz4FsDd9TjY06jM7Y7GsOlPPf6P9WZR1xb047Cg)
+![Sérgio](https://user-images.githubusercontent.com/98190829/151711547-493070e8-eb8f-4a69-bea5-d675e88b1a8e.jpeg)
+
 
 [LinkedIn](www.linkedin.com/in/souzaaugusto)
 
